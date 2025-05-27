@@ -23,7 +23,7 @@ class Record(Base):
     id: Mapped[int] = mapped_column(
         Integer, primary_key=True, autoincrement=True
     )
-    date_added   : Mapped[datetime] = mapped_column(DateTime, nullable=False)
-    content_type : Mapped[str] = mapped_column(String(255), nullable=False)
-    digest       : Mapped[str] = mapped_column(String(255), nullable=False)
-    field        : Mapped[str] = mapped_column(String(255), nullable=False)
+    date_added  : Mapped[datetime] = mapped_column(DateTime, nullable=False)
+    content_type: Mapped[str] = mapped_column(String(255), nullable=False)
+    digest      : Mapped[str] = mapped_column(String(255), nullable=False)
+    field       : Mapped[str] = mapped_column(String(255), nullable=False)

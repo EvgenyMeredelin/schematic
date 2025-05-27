@@ -1,7 +1,7 @@
 [project]
 name = "schematic"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple document schema parser and catalog."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
