@@ -12,4 +12,3 @@ wheels/
 # Added manually
 .env
 schematic.db
-task/

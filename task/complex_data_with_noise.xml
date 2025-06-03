@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dataset>
+	<company id="1">
+		<name>Burton-Young</name>
+		<location>
+			<country>Cambodia</country>
+			<city>West Kristinburgh</city>
+			<coordinates>
+				<latitude>-84.906764</latitude>
+				<longitude>39.291171</longitude>
+			</coordinates>
+		</location>
+		<employees>886</employees>
+		<financials>
+			<revenue currency="USD">5995588.86</revenue>
+			<profit_margin>0.13</profit_margin>
+			<last_year_growth>-0.3</last_year_growth>
+		</financials>
+		<products>
+			<product id="4a43d99a-b3b2-41a9-afd4-24c6004eb783" category="retail">
+				<name>Paper</name>
+				<price currency="USD">727.92</price>
+				<stock>949</stock>
+				<last_sale_date>2021-05-28</last_sale_date>
+				<random_code>Sr33bR69</random_code>
+				<hidden_tag>Configurable web-enabled architecture</hidden_tag>
+			</product>
+			<product id="d5283925-6fe7-4252-871d-e6261ed8899c" category="health">
+				<name>Audience</name>
+				<price currency="USD">608.22</price>
+				<stock>2259</stock>
+				<last_sale_date>2024-03-24</last_sale_date>
+				<random_code>vZ86QE25</random_code>
+				<hidden_tag>Configurable system-worthy methodology</hidden_tag>
+			</product>
+			<product id="177eaf1a-2d83-490f-8114-b5e72577035f" category="retail">
+				<name>Base</name>
+				<price currency="USD">402.96</price>
+				<stock>4605</stock>
+				<last_sale_date>2023-08-08</last_sale_date>
+				<random_code>Ue86QG92</random_code>
+				<hidden_tag>Cloned user-facing collaboration</hidden_tag>
+			</product>
+			<product id="63c60ba3-031b-4a2b-93c0-72e49d30fca8" category="retail">
+				<name>Minute</name>
+				<price currency="USD">951.25</price>
+				<stock>893</stock>
+				<last_sale_date>2020-01-09</last_sale_date>
+				<random_code>xt82BH21</random_code>
+				<hidden_tag>Devolved stable middleware</hidden_tag>
+			</product>
+		</products>
+		<metadata>
+			<created_at>2020-04-02T19:56:27</created_at>
+			<updated_at>2025-03-20T01:37:11</updated_at>
+			<tags>season, everybody, argue, thank, sort</tags>
+			<is_active>False</is_active>
+			<security_code>9406d085f4ceaf6e39e90a28418d471f3448f66585496e41c996ad309339dfb4</security_code>
+			<confidential_notes>Role hear head history paper itself face. Determine guess stock never network meeting.
+Hear college them soon figure cold produce. Nearly send hospital military painting everybody skin fast.</confidential_notes>
+			<internal_ranking>5</internal_ranking>
+		</metadata>
+	</company>
+	<company id="2">
+		<name>Melton-Juarez</name>
+		<location>
+			<country>Malawi</country>
+			<city>Gordonfort</city>
+			<coordinates>
+				<latitude>-68.985050</latitude>
+				<longitude>-140.093993</longitude>
+			</coordinates>
+		</location>
+		<employees>3593</employees>
+		<financials>
+			<revenue currency="USD">7309259.98</revenue>
+			<profit_margin>0.17</profit_margin>
+			<last_year_growth>-0.06</last_year_growth>
+		</financials>
+		<products>
+			<product id="d742fa15-efe5-4323-ac40-4292abdd3ef9" category="retail">
+				<name>Hot</name>
+				<price currency="USD">761.13</price>
+				<stock>1050</stock>
+				<last_sale_date>2024-07-02</last_sale_date>
+				<random_code>Gj56KH89</random_code>
+				<hidden_tag>Profound bandwidth-monitored database</hidden_tag>
+			</product>
+			<product id="877f1843-b26f-4611-9ed7-a1cef5de455e" category="retail">
+				<name>Job</name>
+				<price currency="USD">788.9</price>
+				<stock>4</stock>
+				<last_sale_date>2023-12-10</last_sale_date>
+				<random_code>pN63Ia00</random_code>
+				<hidden_tag>Decentralized encompassing productivity</hidden_tag>
+			</product>
+		</products>
+		<metadata>
+			<created_at>2021-07-15T11:11:16</created_at>
+			<updated_at>2025-03-04T00:53:48</updated_at>
+			<tags>eat, weight, always, dark, movie</tags>
+			<is_active>False</is_active>
+			<security_code>f43e5ffdce89eb36d56c36ae0579b92ad65208bdc9ac678816c8cd122804ad4c</security_code>
+			<confidential_notes>Floor vote relationship reach. Research rest customer.
+Fear feel edge. Anyone store agreement until. Upon mention answer work at bit sell.
+Camera through visit. Article follow apply week executive.</confidential_notes>
+			<internal_ranking>44</internal_ranking>
+		</metadata>
+	</company>
+	<company id="3">
+		<name>Harris LLC</name>
+		<location>
+			<country>Uruguay</country>
+			<city>Gomezberg</city>
+			<coordinates>
+				<latitude>9.974500</latitude>
+				<longitude>-41.907601</longitude>
+			</coordinates>
+		</location>
+		<employees>1993</employees>
+		<financials>
+			<revenue currency="USD">7294376.16</revenue>
+			<profit_margin>0.24</profit_margin>
+			<last_year_growth>0.75</last_year_growth>
+		</financials>
+		<products>
+			<product id="d0355856-ea29-451d-8175-59f96ec23af1" category="retail">
+				<name>There</name>
+				<price currency="USD">156.19</price>
+				<stock>165</stock>
+				<last_sale_date>2022-11-07</last_sale_date>
+				<random_code>Lh23gz97</random_code>
+				<hidden_tag>Virtual bandwidth-monitored synergy</hidden_tag>
+			</product>
+			<product id="311d8825-621d-4aa0-9bed-535d284168c0" category="tech">
+				<name>Magazine</name>
+				<price currency="USD">625.22</price>
+				<stock>2665</stock>
+				<last_sale_date>2021-07-18</last_sale_date>
+				<random_code>bJ24nX84</random_code>
+				<hidden_tag>Phased client-driven encryption</hidden_tag>
+			</product>
+			<product id="83d97cc7-0884-4502-ad1e-cf856a9dbff0" category="tech">
+				<name>Budget</name>
+				<price currency="USD">932.81</price>
+				<stock>2410</stock>
+				<last_sale_date>2022-12-15</last_sale_date>
+				<random_code>EP88SH26</random_code>
+				<hidden_tag>Proactive reciprocal orchestration</hidden_tag>
+			</product>
+		</products>
+		<metadata>
+			<created_at>2020-10-17T18:27:06</created_at>
+			<updated_at>2025-03-30T14:50:37</updated_at>
+			<tags>factor, perform, everybody, thought, keep</tags>
+			<is_active>True</is_active>
+			<security_code>4b2407617625d90cd6b5c9793c9964047d0ca93d162dfa9fa47300ef0e2905cb</security_code>
+			<confidential_notes>Quite gas step model. Movie general old quickly. Dinner raise easy method break.</confidential_notes>
+			<internal_ranking>68</internal_ranking>
+		</metadata>
+	</company>
+	<company id="4">
+		<name>Osborne Group</name>
+		<location>
+			<country>Mauritius</country>
+			<city>Patelchester</city>
+			<coordinates>
+				<latitude>76.758051</latitude>
+				<longitude>-83.521909</longitude>
+			</coordinates>
+		</location>
+		<employees>4787</employees>
+		<financials>
+			<revenue currency="USD">4808861.62</revenue>
+			<profit_margin>0.47</profit_margin>
+			<last_year_growth>0.05</last_year_growth>
+		</financials>
+		<products>
+			<product id="fb9e4a92-1e47-418e-aaaf-3a08ca6e275b" category="retail">
+				<name>Doctor</name>
+				<price currency="USD">540.82</price>
+				<stock>4128</stock>
+				<last_sale_date>2024-08-18</last_sale_date>
+				<random_code>Om22Mr95</random_code>
+				<hidden_tag>Grass-roots neutral moratorium</hidden_tag>
+			</product>
+			<product id="0132a6c3-9c00-47c6-b639-24f98a08eca4" category="tech">
+				<name>Major</name>
+				<price currency="USD">979.58</price>
+				<stock>451</stock>
+				<last_sale_date>2024-08-16</last_sale_date>
+				<random_code>ug04hz29</random_code>
+				<hidden_tag>Visionary needs-based instruction set</hidden_tag>
+			</product>
+			<product id="c1e33ba5-9bb4-4d27-83c3-b9f55d99a605" category="tech">
+				<name>Center</name>
+				<price currency="USD">975.13</price>
+				<stock>3089</stock>
+				<last_sale_date>2020-02-18</last_sale_date>
+				<random_code>DL72tq78</random_code>
+				<hidden_tag>Distributed reciprocal analyzer</hidden_tag>
+			</product>
+		</products>
+		<metadata>
+			<created_at>2020-11-24T10:48:13</created_at>
+			<updated_at>2025-04-09T23:10:37</updated_at>
+			<tags>eat, population, help, prove, wear</tags>
+			<is_active>True</is_active>
+			<security_code>3e737ec38848168ac39019558b9704a6144262de58f9a1c4f37a7eafb004a25b</security_code>
+			<confidential_notes>Affect safe enter. Without chair market campaign style process.
+Live product red clear but center industry. Physical ask born.
+Plan old Democrat page. Successful last rather take economic establish.</confidential_notes>
+			<internal_ranking>62</internal_ranking>
+		</metadata>
+	</company>
+	<company id="5">
+		<name>Welch Group</name>
+		<location>
+			<country>Liechtenstein</country>
+			<city>South Jessica</city>
+			<coordinates>
+				<latitude>81.446442</latitude>
+				<longitude>-103.390487</longitude>
+			</coordinates>
+		</location>
+		<employees>4765</employees>
+		<financials>
+			<revenue currency="USD">3100223.72</revenue>
+			<profit_margin>0.23</profit_margin>
+			<last_year_growth>1.22</last_year_growth>
+		</financials>
+		<products>
+			<product id="9e16f171-05b1-4173-85b5-f43817364353" category="retail">
+				<name>Clearly</name>
+				<price currency="USD">990.38</price>
+				<stock>1294</stock>
+				<last_sale_date>2023-05-23</last_sale_date>
+				<random_code>Qa90OY77</random_code>
+				<hidden_tag>User-centric 6thgeneration archive</hidden_tag>
+			</product>
+			<product id="0abcfb94-fb5c-4688-a44d-427a98bbdeb9" category="tech">
+				<name>Prove</name>
+				<price currency="USD">961.78</price>
+				<stock>1765</stock>
+				<last_sale_date>2021-02-19</last_sale_date>
+				<random_code>fj75uL57</random_code>
+				<hidden_tag>Quality-focused attitude-oriented middleware</hidden_tag>
+			</product>
+			<product id="956a0359-4054-48ee-8dff-4c085684c8de" category="tech">
+				<name>Address</name>
+				<price currency="USD">926.77</price>
+				<stock>1903</stock>
+				<last_sale_date>2022-05-19</last_sale_date>
+				<random_code>Zj79cx63</random_code>
+				<hidden_tag>Synergized optimal infrastructure</hidden_tag>
+			</product>
+			<product id="a3cdf796-e425-42d1-bcfd-3c0a2cfe01ec" category="tech">
+				<name>Lot</name>
+				<price currency="USD">924.0</price>
+				<stock>4799</stock>
+				<last_sale_date>2021-11-09</last_sale_date>
+				<random_code>Hd03Yv71</random_code>
+				<hidden_tag>Operative radical instruction set</hidden_tag>
+			</product>
+			<product id="efbb8a88-6afc-4860-879e-94f7ca71d23d" category="tech">
+				<name>Whom</name>
+				<price currency="USD">473.53</price>
+				<stock>2211</stock>
+				<last_sale_date>2020-02-18</last_sale_date>
+				<random_code>Cz81gA02</random_code>
+				<hidden_tag>Optional disintermediate extranet</hidden_tag>
+			</product>
+		</products>
+		<metadata>
+			<created_at>2024-04-08T23:04:12</created_at>
+			<updated_at>2025-04-30T22:16:44</updated_at>
+			<tags>reveal, machine, Mrs, carry, role</tags>
+			<is_active>False</is_active>
+			<security_code>5402d6b6856da3c50a89fa25d0cec5076e2a2a793dd9df95cd9ea5f18acfdb0d</security_code>
+			<confidential_notes>Answer somebody price voice case drive. Amount international people land. Place market write along turn oil.</confidential_notes>
+			<internal_ranking>4</internal_ranking>
+		</metadata>
+	</company>
+</dataset>
